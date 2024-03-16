@@ -2,5 +2,5 @@
 from magic_calculation_102 import add, sub
 
 def magic_calculation(a, b):
-    sum = add(a, b)
+    c = add(a, b)
 
